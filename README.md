@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 my Name is Caro
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C# with WPF / Avalonia and SQL
+- 😄 Pronouns: she / her
 
 <!--
 **CarosCave/CarosCave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
